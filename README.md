@@ -7,4 +7,4 @@ How to use history feature:
 * When the user enters !!, the most recent command in the history is executed.
 * When the user enters a single ! followed by an integer N, the Nth command in the history is executed.
 
-Try it in your browser: https://simpleshell.anirekhj.repl.run
+Try it in your browser: [SimpleShell](https://simpleshell.anirekhj.repl.run)
